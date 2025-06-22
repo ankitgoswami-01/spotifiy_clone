@@ -643,3 +643,20 @@ footer{
     
     
 }
+
+
+
+.Trending_songs_list_box1 {
+  position: relative;
+}
+
+.Trending_songs_list_box1 .paly_button {
+  position: absolute;
+  /* top: 10px; */
+  /* left: 10px; */
+  cursor: pointer;
+}
+
+.Trending_songs_list_box1 audio {
+  display: none; /* Hide native controls */
+}
